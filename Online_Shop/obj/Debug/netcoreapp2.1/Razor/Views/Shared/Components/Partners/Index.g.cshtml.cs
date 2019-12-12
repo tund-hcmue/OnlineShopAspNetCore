@@ -45,7 +45,7 @@ namespace AspNetCore
             WriteLiteral("<div class=\"title\">\r\n    <span class=\"title_icon\">\r\n    ");
             EndContext();
             BeginContext(56, 39, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "74870aaba90243efa66fd5d5df3e3cc1", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "5ed77c8a00064458b6a46eb3d343caf5", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

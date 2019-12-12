@@ -55,7 +55,7 @@ namespace AspNetCore
             WriteLiteral("\r\n    <div class=\"crumb_nav\"> <a href=\"http://all-free-download.com/free-website-templates/\">home</a> &gt;&gt; product name </div>\r\n    <div class=\"title\"><span class=\"title_icon\">");
             EndContext();
             BeginContext(273, 42, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "00586a468be449a1b57ce45956a3c729", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "fdf5dbab5a924a8dbc570d4ad0f0bd4e", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

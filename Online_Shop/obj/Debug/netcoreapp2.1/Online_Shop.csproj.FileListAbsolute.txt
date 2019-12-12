@@ -33,3 +33,4 @@ D:\tund\Online_Shop\Online_Shop\obj\Debug\netcoreapp2.1\Razor\Views\Contact\Inde
 D:\tund\Online_Shop\Online_Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\MyCart\Index.g.cshtml.cs
 D:\tund\Online_Shop\Online_Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Categories\Index.g.cshtml.cs
 D:\tund\Online_Shop\Online_Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Partners\Index.g.cshtml.cs
+D:\tund\Online_Shop\Online_Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Promotions\Index.g.cshtml.cs

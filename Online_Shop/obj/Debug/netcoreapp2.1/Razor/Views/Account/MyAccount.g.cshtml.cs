@@ -59,7 +59,7 @@ namespace AspNetCore
             WriteLiteral("\r\n    <div class=\"title\"><span class=\"title_icon\">");
             EndContext();
             BeginContext(147, 39, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "61a849d57aa14379b6075e874ea611ab", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "708d65aa47f74f96b2fc70bf2ccd4732", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -83,7 +83,7 @@ namespace AspNetCore
             ");
             EndContext();
             BeginContext(732, 885, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "51bcbcd02bc840fd98246b55134c15b7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "75480317427d4f05bb7596760f13f41f", async() => {
                 BeginContext(814, 796, true);
                 WriteLiteral(@"
                 <div class=""form_row"">
